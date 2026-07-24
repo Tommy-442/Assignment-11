@@ -85,4 +85,4 @@ Connection closed.
 
 **Adeyemi Tomiwa**
 
-Data Analyst | Python | SQL | PostgreSQL | Power BI
+Analytics Engineer | Data Analyst | Python | SQL | PostgreSQL
